@@ -12,7 +12,6 @@ speciat-->
 
 <center> 🛠 Tech Stack 🛠 </center> <br>
 
-<center> 🛠 Tech asasd 🛠 </center>
 
 
 <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png"/></a>
