@@ -16,7 +16,6 @@
 
 
 - :bowtie: Hello, I'm Junior iOS Developer
-- 
 - I'm currently learning Swift 5.0, SwiftUI
 - I'm working on Side Project
 - My goal for 2022 is 1 commit everyday
