@@ -21,6 +21,6 @@
 [![kangddong’s GitHub stats](https://github-readme-stats.vercel.app/api?username=kangddong&show_icons=true&theme=radical)](https://github.com/kangddong/github-readme-stats)
 
 
-## 📈 Algorithm && Data structure
+## 💿 Algorithm && Data structure
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdehddud96)](http://solved.ac/rkdehddud96/)
