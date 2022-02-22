@@ -3,7 +3,6 @@
 ## 🧑‍💻 Hello I'm iOS Develper KANG DONG YEONG
 <div align="left">
 - I'm currently learning Swift 5.0, SwiftUI<br>
-- I'm working on Side Project<br>
 - My goal for 2022 is 1 commit everyday<br>
 </div>
 
