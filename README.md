@@ -4,6 +4,7 @@
 <div align="left">
 - I'm currently learning Swift 5.0, SwiftUI<br>
 - My goal for 2022 is 1 commit everyday<br>
+- I want to be Programmer, not Coder<br>
 </div>
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
