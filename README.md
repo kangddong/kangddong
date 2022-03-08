@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=kangddong&fontSize=70&animation=twinkling)
 
-## 🧑‍💻 Hello I'm iOS Develper KANG DONG YEONG
+## 🧑‍💻 Hello I'm iOS Develper KANG DONG YEON
 <div align="left">
 - I'm currently learning Swift 5.0, SwiftUI<br>
 - My goal for 2022 is 1 commit everyday<br>
