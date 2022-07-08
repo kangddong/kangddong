@@ -2,10 +2,9 @@
 
 ## 🧑‍💻 Hello I'm iOS Develper KANG DONG YEONG
 <div align="left">
-- I'm currently learning Swift 5.0, SwiftUI<br>
+- I'm currently learning UIKit, RxSwift<br>
 - My goal for 2022 is 1 commit everyday<br>
 - I want to be Programmer, not Coder<br>
-- I want to be Digital Nomad
 </div>
 
 <h3 align="left">🛠 Tech Stack 🛠</h3>
@@ -22,6 +21,6 @@
 [![kangddong’s GitHub stats](https://github-readme-stats.vercel.app/api?username=kangddong&show_icons=true&theme=radical)](https://github.com/kangddong/github-readme-stats)
 
 
-## 💿 Algorithm && Data structure
+<!-- ## 💿 Algorithm && Data structure -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdehddud96)](http://solved.ac/rkdehddud96/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdehddud96)](http://solved.ac/rkdehddud96/) -->
