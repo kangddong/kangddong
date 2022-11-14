@@ -7,20 +7,21 @@
   ## 🧑‍💻 Hello I'm iOS Develper KANG DONG YEONG
   
   
-  I'm currently learning UIKit, RxSwift<br>
+  I'm currently learning UIKit, RxSwift / SwiftUI, Combine<br>
   My goal for 2022 is 1 commit everyday<br>
-  I want to be Programmer, not Coder<br>
 
 
   <br>
   
 ## 🛠 Tech Stack 🛠
   
-  
-<img height="40" src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png"/>
-<img width="35" height="40" src="https://user-images.githubusercontent.com/50406861/147846585-01bd1f95-dc7a-4df6-a7bc-e3ab70685adc.png"/>
-<img width="40" height="40" src="https://user-images.githubusercontent.com/50406861/147846635-1cfb1daa-62cd-474c-a0a6-bd6d66ac3dde.png"/>
 
+<img height="100" src="https://user-images.githubusercontent.com/50406861/201713355-a788da3c-58aa-415f-9a0c-3980cea3216c.png"/>
+<img height="96" src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png"/>
+<img height="96" src="https://user-images.githubusercontent.com/50406861/201712753-9c71c80b-8cf0-49a3-bea6-79601fc89209.png"/>
+<img width="96" height="96" src="https://user-images.githubusercontent.com/50406861/201710136-a0336970-000d-4815-af77-1f2d2c6cf5a5.png"/>
+
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangddong&show_icons=true&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
   <br>
