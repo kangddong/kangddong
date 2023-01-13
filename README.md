@@ -22,13 +22,13 @@
 <img width="96" height="96" src="https://user-images.githubusercontent.com/50406861/201710136-a0336970-000d-4815-af77-1f2d2c6cf5a5.png"/>
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangddong&show_icons=true&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kangddong&show_icons=true&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
   <br>
   
 ## 📈 GitHub Stats
 
-[![kangddong’s GitHub stats](https://github-readme-stats.vercel.app/api?username=kangddong&show_icons=true&theme=radical)](https://github.com/kangddong/github-readme-stats)
+[![kangddong’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kangddong&show_icons=true&theme=radical)](https://github.com/kangddong/github-readme-stats)
 
 
 <!-- ## 💿 Algorithm && Data structure -->
