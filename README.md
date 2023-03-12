@@ -7,8 +7,9 @@
   ## 🧑‍💻 Hello I'm iOS Develper KANG DONG YEONG
   
   
-  I'm currently learning UIKit, RxSwift / SwiftUI, Combine<br>
-  My goal for 2022 is 1 commit everyday<br>
+  I'm currently using UIKit, RxSwift <br>
+  I will learing SwiftUI, Combine in the future.
+  I am currently very interested in Moduler Architecture.
 
 
   <br>
