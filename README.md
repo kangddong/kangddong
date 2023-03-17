@@ -47,12 +47,11 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 <br/>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kangddong&show_icons=true&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <br/>
   
 ## 📈 GitHub Stats
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kangddong&show_icons=true&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![kangddong’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kangddong&show_icons=true&theme=radical)](https://github.com/kangddong/github-readme-stats)
 
 
