@@ -1,19 +1,20 @@
 <p align="right">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingso&count_bg=%23FFC957&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangddong%2Fhit-counter&count_bg=%23FFC002&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
+
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=kangddong&fontSize=70&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kangddong%20(Rx)&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 
   <br>
   
   ## 🧑‍💻 Hello I'm iOS Develper KANG DONG YEONG
   
   
-  I'm currently using UIKit, RxSwift <br>
-  I will learing SwiftUI, Combine in the future.
-  I am currently very interested in Moduler Architecture.
+  I'm currently using `UIKit` `MVVM Architecture`, `RxSwift` <br>
+  I am currently very interested in `Modular Architecture`, `Clean Architecture` <br>
+  I will learing `SwiftUI`, `Combine` in the future. <br>
 
 
   <br>
