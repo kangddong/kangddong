@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingso&count_bg=%23FFC957&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=kangddong&fontSize=70&animation=twinkling)
@@ -22,9 +26,7 @@
 <img height="96" src="https://user-images.githubusercontent.com/50406861/201712753-9c71c80b-8cf0-49a3-bea6-79601fc89209.png"/>
 <img width="96" height="96" src="https://user-images.githubusercontent.com/50406861/201710136-a0336970-000d-4815-af77-1f2d2c6cf5a5.png"/>
 
-  
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kangddong&show_icons=true&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+  <br>
   <br>
   
 <p dir="auto">
@@ -44,6 +46,7 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 <br/>
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kangddong&show_icons=true&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
   
