@@ -4,9 +4,6 @@
 
 
 <div align="center">
-
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kangddong%20(Rx)&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
-
   <br>
   
   ## 🧑‍💻 Hello I'm iOS Develper KANG DONG YEONG
