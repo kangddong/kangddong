@@ -4,12 +4,6 @@
 
 
 <div align="center">
-  <br>
-<img width="16" src="https://github.com/kangddong/kangddong/assets/50406861/2f9d2943-a4dd-4eae-9c03-0f52a7dfe85f"/></a> KWDC23 Speaker - Push Notification Console 여행하기✈️
-  
-
-
-  <br>
   
 ## 🛠 Tech 🛠
   
@@ -44,7 +38,14 @@
 <br/>
 -->
 <br/>
-  
+
+<br>
+
+### 🏁 Activity
+- KWDC 23 Speaker 참여 - [Push Notification Console 여행하기✈️](https://youtu.be/LNgpmhesJ0s?si=jiH-Y7tnrmpa59IP) (2023.07.18)
+
+<br>
+
 ## 📈 GitHub Stats
 
 <!--
