@@ -19,10 +19,10 @@
 ### 🏁 Activity
 
 <div align="center">
-  
-KWDC 23 Speaker 참여 - [Push Notification Console 여행하기✈️](https://youtu.be/LNgpmhesJ0s?si=jiH-Y7tnrmpa59IP) (2023.07.18)
 
 애플 공식문서 번역 작업 - [Gitbook 구경가기](https://rkdehddud96s-personal-organizati.gitbook.io/document#app-frameworks)                      
+
+KWDC 23 Speaker 참여 - [Push Notification Console 여행하기✈️](https://youtu.be/LNgpmhesJ0s?si=jiH-Y7tnrmpa59IP) (2023.07.18)
   <br/>
   
 </div>
