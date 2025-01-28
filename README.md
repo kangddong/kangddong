@@ -42,3 +42,8 @@ KWDC 23 Speaker 참여 - [Push Notification Console 여행하기✈️](https://
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdehddud96)](http://solved.ac/rkdehddud96/) -->
   
 </div>
+
+##  👇🏻 And Also Check Out my recent post in my velog
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kangddong)]([벨로그링크](https://velog.io/@kangddong/posts)https://velog.io/@kangddong/posts)
+
